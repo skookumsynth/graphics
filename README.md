@@ -9,4 +9,4 @@ Updated when I need more parts for a panel layout.
 
 Current state below:
 
-https://github.com/skookumsynth/graphics/blob/master/eurorack_vector_template.jpg
+![image](/eurorack_vector_template.jpg)
